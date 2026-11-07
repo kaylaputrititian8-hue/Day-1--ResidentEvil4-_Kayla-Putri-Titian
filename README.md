@@ -14,7 +14,7 @@ Berikut tambahan Rangkuman Materi yang bisa diletakkan sebelum poin-poin lainnya
 1. Rangkuman Materi
 Materi Git & GitHub membahas penggunaan AI melalui Prompt Engineering serta pengelolaan proyek menggunakan Git dan GitHub. Git digunakan untuk mencatat dan mengelola perubahan file, sedangkan GitHub digunakan untuk menyimpan repository secara online dan mendukung kolaborasi. Materi juga membahas Git Workflow, perintah dasar Git, Git Setup, SSH Key, serta proses pengembangan aplikasi menggunakan AI dan GitHub.
 
-2. Poin-Poin Mater
+2. Poin-Poin Materi
 - Prompt Engineering adalah cara membuat instruksi AI agar menghasilkan jawaban yang sesuai.
 - Git adalah sistem untuk mencatat dan mengelola perubahan file.
 - GitHub adalah platform untuk menyimpan repository secara online.
